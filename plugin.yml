@@ -1,0 +1,6 @@
+name: FishingRod
+main: MinePlugins\FishingRod\Main
+api: ["5.0.0"]
+load: POSTWORLD
+
+author: MinePlugins
